@@ -1,0 +1,15 @@
+{
+  "name": "levr",
+  "owner": {
+    "name": "Levr",
+    "url": "https://levr.fi"
+  },
+  "description": "Levr's plugins for Claude: Ratio, the trading companion that checks crypto signals and follows your Levr trades.",
+  "plugins": [
+    {
+      "name": "levr-ratio",
+      "source": "./",
+      "description": "Ratio, Levr's trading companion: check a crypto signal before you take it, follow your trades, review your results."
+    }
+  ]
+}

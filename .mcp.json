@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ratio": {
+      "type": "http",
+      "url": "https://app.levr.fi/mcp"
+    }
+  }
+}
