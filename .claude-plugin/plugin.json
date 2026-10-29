@@ -1,5 +1,6 @@
 {
   "name": "levr-ratio",
+  "displayName": "Ratio by Levr",
   "version": "1.0.0",
   "description": "Ratio, Levr's trading companion: check a crypto trade signal before you take it, follow your running Levr trades, review your results, and read the market (technical analysis checked against past setups, the economic calendar, world news). Read-only: it never places, changes or closes a trade.",
   "author": {
